@@ -1,9 +1,6 @@
 ### Hi 👋 I'm Nádia Oliveira
 
-<!--
-**OliveiraNadia/OliveiraNadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-A passionate backend developer from Brazil, I love share knowledge.
+### A passionate backend developer from Brazil, I love share knowledge.
 
 - 🔭 I’m currentlty working #Nuinvest# with .Net Plataform
 - 🌱 I’m currently learning #Clojure#, #AWS#, #Docker#
@@ -14,4 +11,3 @@ A passionate backend developer from Brazil, I love share knowledge.
 - 📫 How to reach me:[! n.nadia.oliveira7@gmail.com]
 - 📄 Know about my experiences 4 Years of software development backend .NET Platform, graduate in Information System and Development
 - ⚡ Fun fact I am passionate for MuayThai
--->
