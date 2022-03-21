@@ -16,7 +16,7 @@
 
 https://www.linkedin.com/in/n%C3%A1dia-oliveira-7a245337/ 
 [!(https://www.pngall.com/twitter-png)] (https://twitter.com/Oliveira7N)
-[![twitter](https://www.freepnglogos.com/pics/logo-twitter-png)](https://twitter.com/Oliveira7N)
+[![twitter]https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png)](https://twitter.com/Oliveira7N)
 
 
 ### Languages and Tools
