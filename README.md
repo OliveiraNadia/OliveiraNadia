@@ -3,7 +3,7 @@
 ### A passionate backend developer from Brazil, I love share knowledge.
 
 - 🔭 I’m currentlty working **Nuinvest** with **.Net Plataform**
-- 🌱 I’m currently learning **AWS**, **Docker**
+- 🌱 I’m currently learning **MicroServices**, **Design Patterns**, **AWS**, **Docker**
 - 👯 I’m looking to collaborate on **C#**, **.NET Core**, **Unit Test**, **Software Architecture**, **Design Patterns**, **Clean Code** and **API**
 - 🤔 I’m looking for help with **AWS**
 - 👨‍💻 All of my projects are available at Github
