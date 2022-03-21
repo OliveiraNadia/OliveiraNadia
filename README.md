@@ -14,7 +14,8 @@
 
 ### Connect with me
 
-https://www.linkedin.com/in/n%C3%A1dia-oliveira-7a245337/ https://twitter.com/Oliveira7N
+https://www.linkedin.com/in/n%C3%A1dia-oliveira-7a245337/ 
+[!(https://www.pngall.com/twitter-png)] (https://twitter.com/Oliveira7N)
 
 
 ### Languages and Tools
