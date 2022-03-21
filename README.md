@@ -12,12 +12,7 @@
 - 📄 Know about my experiences 4 Years of software development backend .NET Platform, graduate in Information System and Development
 - ⚡ Fun fact I am passionate for MuayThai
 
-### Connect with me
-
-https://www.linkedin.com/in/n%C3%A1dia-oliveira-7a245337/ 
-[![](https://www.freepnglogos.com/pics/logo-twitter-png)]((https://twitter.com/Oliveira7N)]
-
 
 ### Languages and Tools
 
-aws csharp docker dotnet git grafana kibana oracle postman
+redis rabbitMQ csharp dotnet git grafana kibana oracle postman
