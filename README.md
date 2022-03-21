@@ -15,8 +15,7 @@
 ### Connect with me
 
 https://www.linkedin.com/in/n%C3%A1dia-oliveira-7a245337/ 
-[!(https://www.pngall.com/twitter-png)] (https://twitter.com/Oliveira7N)
-	[![](https://logodownload.org/twitter-logo/twitter-logo-2-1.png)]((https://twitter.com/Oliveira7N)]
+[![](https://www.freepnglogos.com/pics/logo-twitter-png)]((https://twitter.com/Oliveira7N)]
 
 
 ### Languages and Tools
